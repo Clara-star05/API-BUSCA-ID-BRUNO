@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "BTS",
+        "descriebe": "ARIRANG (2026): O retorno triunfal do grupo após o hiato militar, com 14 músicas novas.",
+        "style": "KPOP",
+        "price": "389,90",
+        "image": "<img src='img/btsdisco1.jpg' width='150px'>"
+    },
+     {
+        "id": 2,
+        "name": "BTS",
+        "descriebe": "Proof (2022): Álbum de antologia que resume os 9 anos de carreira do grupo com três CDs.",
+        "style": "KPOP",
+        "price": "430,90",
+        "image": "<img src='img/btsdisco2.webp' width='150px'>"
+    }, {
+        "id": 3,
+        "name": "BTS",
+        "descriebe": "Map of the Soul: 7 (2020): Um dos maiores sucessos globais do BTS, explorando sombras e o ego.",
+        "style": "KPOP",
+        "price": "389,90",
+        "image": "<img src='img/btsdisco1.jpg' width='150px'>"
+    },
+     {
+        "id": 4,
+        "name": "BTS",
+        "descriebe": "BE (2020): Disco focado em mensagens de conforto e esperança durante a pandemia.",
+        "style": "KPOP",
+        "price": "430,90",
+        "image": "<img src='img/btsdisco2.webp' width='150px'>"
+    }
+]
